@@ -1,3 +1,2 @@
-# CMS
-Content Management System
+# CMS(Content Management System)
 The project is developed using HMTL,CSS and Javascript for the development of frontend, PHP for connecting the frontend to backend and MySQL for the backend. The project serves as an open platform for people to read about blogs on various topics written by different people. Unregistered people can only view the blogs while the registered users can even comment on the blogs. The admin is responsible for adding new posts,new topics and new users to the system. The admin can view the activities of the users and can check as to how many comments have been made on a particular post.
